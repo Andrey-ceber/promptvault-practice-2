@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+data/
+*.db
+*.db-*
+*.sqlite*
+.env
+.env.*
+!.env.example
+exports/
+artifacts/
+docs/recording/
+docs/failed-demo.webm
+docs/demo.webm
